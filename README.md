@@ -1,4 +1,4 @@
-# simple_blocker
+# URl Blocker
 This is a python script to block websites on a Mac. 
 
 How it works: You vim into the blocked_websites file, then type the websites
